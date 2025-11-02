@@ -3,9 +3,9 @@ locale                   : "en-US"
 title                    : "Angela Elissa Kothe"
 title_separator          : "-"
 name                     : "Angela Kothe"
-url                      : "https://ak44447777777.github.io"
+url                      : "https://aekothe.github.io"
 baseurl                  : "/"
-repository               : "ak44447777777/ak44447777777.github.io"
+repository               : "aekothe/aekothe.github.io"
 logo                     : "/favicon.ico"
 github                   : [metadata]
 
@@ -13,7 +13,7 @@ github                   : [metadata]
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-166018803-1"
+    tracking_id          : "G-P5VYJSD98H"
     anonymize_ip         : # true, false (default)
 
 
